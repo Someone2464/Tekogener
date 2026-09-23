@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tekosyy_Generaattori", "Tekosyy_Generaattori\Tekosyy_Generaattori.csproj", "{09CBF1DE-85F9-B085-35D8-CDEB86444DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CBF1DE-85F9-B085-35D8-CDEB86444DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CBF1DE-85F9-B085-35D8-CDEB86444DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CBF1DE-85F9-B085-35D8-CDEB86444DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CBF1DE-85F9-B085-35D8-CDEB86444DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A0EDFB5-0D63-4251-A886-A777593C6FBB}
+	EndGlobalSection
+EndGlobal
